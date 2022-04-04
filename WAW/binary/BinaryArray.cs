@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Linq;
-using System.Linq;
+
+using Pair = it.auties.whatsapp4j.utils.internal.Pair;
+using NonNull = lombok.NonNull;
+using Hex = org.bouncycastle.util.encoders.Hex;
 
 namespace it.auties.whatsapp4j.binary
 {
-	using Pair = it.auties.whatsapp4j.utils.@internal.Pair;
-	using NonNull = lombok.NonNull;
-	using Hex = org.bouncycastle.util.encoders.Hex;
-
 
 	/// <summary>
 	/// A utility class that wraps an array of bytes

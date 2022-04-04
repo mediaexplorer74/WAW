@@ -1,14 +1,3 @@
-﻿using System;
-
-namespace WAW
-{
-    public class Class1
-    {
-
-    }
-}
-
-// ........
 open module whatsapp4j {
     exports it.auties.whatsapp4j.whatsapp;
     exports it.auties.whatsapp4j.listener;
