@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVxYleBaBCQQYNVSAc94VB8zTaG8FCD1UAf2aNSFUpN3jaPznI6efee1BsSIPRfEW9b9Hjjwlh0BDZcn0S995g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\media\\source\\repos\\mediaexplorer74\\WAW\\WAW\\WAW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\media\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\media\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
