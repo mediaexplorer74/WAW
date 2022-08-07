@@ -1,20 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\media\\source\\repos\\mediaexplorer74\\WAW\\WAW\\WAW.csproj": {}
+    "C:\\Users\\media\\source\\repos\\WAW\\WAW\\WAW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\media\\source\\repos\\mediaexplorer74\\WAW\\WAW\\WAW.csproj": {
+    "C:\\Users\\media\\source\\repos\\WAW\\WAW\\WAW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\media\\source\\repos\\mediaexplorer74\\WAW\\WAW\\WAW.csproj",
+        "projectUniqueName": "C:\\Users\\media\\source\\repos\\WAW\\WAW\\WAW.csproj",
         "projectName": "WAW",
-        "projectPath": "C:\\Users\\media\\source\\repos\\mediaexplorer74\\WAW\\WAW\\WAW.csproj",
+        "projectPath": "C:\\Users\\media\\source\\repos\\WAW\\WAW\\WAW.csproj",
         "packagesPath": "C:\\Users\\media\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\media\\source\\repos\\mediaexplorer74\\WAW\\WAW\\obj\\",
+        "outputPath": "C:\\Users\\media\\source\\repos\\WAW\\WAW\\obj\\",
         "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
           "C:\\Users\\media\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,47 +24,49 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "uap10.0.15063"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
+          "uap10.0.15063": {
             "projectReferences": {}
           }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
+        "uap10.0.15063": {
           "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[6.2.14, )"
             }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22154.4\\RuntimeIdentifierGraph.json"
+          }
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
         }
       }
     }
