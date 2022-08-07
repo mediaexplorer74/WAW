@@ -28,7 +28,7 @@ This library was built for [Wanesia Lite API v4](https://documenter.getpostman.c
 - Intro/Bug-fixing (0%)
 
 ## Referencies
-https://github.com/Auties00/WhatsappWeb4j  WhatsappWeb4j (Java Original) 
+https://github.com/arifnrw/jbswa
 
 ## DIY
 Feel free to assemble some simplest UWP app for sending WA message. :)
