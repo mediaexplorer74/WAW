@@ -4,7 +4,8 @@ WhatsApp "Web" (WAW) API c# concept, lib and proto (draft / sketch only)
 
 ## What is WAW
 
-WAW is the concept / lib / proto used some Whatsapp Business analogue (some WA gateway to send / recieve WA message).
+WAW is the concept / lib / proto used  Whatsapp Business API analogue (Wanesia Lite WA gateway to send / recieve WA message).
+
 I suddenly found this things:
 - https://lite.wanesia.com
 - https://wanesia.id
@@ -31,7 +32,7 @@ This library was built for [Wanesia Lite API v4](https://documenter.getpostman.c
 https://github.com/arifnrw/jbswa
 
 ## DIY
-Feel free to assemble some simplest UWP app for sending WA message. :)
+Feel free to assemble yourself any simplest UWP app for sending WA message. :)
 
 AS IS. No support. RnD only. 
 
